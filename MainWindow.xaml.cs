@@ -56,7 +56,7 @@ namespace WpfApp1
                 s.Dispose();
                 return;
             }
-            var ret1 = s.RemoveFile("/home/node/work/うTF");
+            var ret1 = s.RemoveFile("/home/node/work/日本語");
 
             s.Dispose();
         }
